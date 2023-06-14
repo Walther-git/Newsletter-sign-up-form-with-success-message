@@ -6,7 +6,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://walther-git.github.io/Newsletter-sign-up-form-with-success-message/)
+- Live Site URL: [Newsletter-sign-up-form](https://walther-git.github.io/Newsletter-sign-up-form-with-success-message/)
 
 ## My process
 
