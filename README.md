@@ -27,23 +27,20 @@ Users should be able to:
 ### Screenshots
 
 #### Desktop
-<img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/desktop-hover.png">
 
-<img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/desktop-succes.png">
+<img  alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/desktop-hover.png">
 
-<img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/desktop-valid.png">
+<img  alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/desktop-succes.png">
 
-<br>
+<img  alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/desktop-valid.png">
+
+
 
 #### Mobile
 
 <img  alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/mobile.png">
 
 <img  alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/mobile-succes.png">
-
-<br>
-
-
 
 ### Links
 
