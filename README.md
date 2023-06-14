@@ -1,4 +1,4 @@
-# Frontend Mentor - Newsletter sign-up form with success message solution
+# Newsletter sign-up form with success message solution
 
 This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -24,9 +24,11 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshots
 
-![](./screenshot.jpg)
+#### Desktop
+<img align="left" alt="Screen" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg](https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/84734b08ae0ae4eab5cfbc46598da5a3b961c662/screenshots/desktop-hover.png)">
+
 
 ### Links
 
