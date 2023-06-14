@@ -27,17 +27,24 @@ Users should be able to:
 ### Screenshots
 
 #### Desktop
-- <img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/84734b08ae0ae4eab5cfbc46598da5a3b961c662/screenshots/desktop-hover.png">
+- <img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/desktop-hover.png">
+<br>
 - <img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/desktop-succes.png">
+<br>
 - <img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/desktop-valid.png">
 
-###  Mobile
+#### Mobile
+
+- <img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/mobile.png">
+<br>
+- <img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/mobile-succes.png">
+<br>
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://walther-git.github.io/Newsletter-sign-up-form-with-success-message/)
 
 ## My process
 
