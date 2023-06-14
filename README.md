@@ -33,11 +33,15 @@ Users should be able to:
 
 <img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/desktop-valid.png">
 
+<br>
+
 #### Mobile
 
 <img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/mobile.png">
 
 <img align="left" alt="Screen" src="https://raw.githubusercontent.com/Walther-git/Newsletter-sign-up-form-with-success-message/main/screenshots/mobile-succes.png">
+
+<br>
 
 
 
