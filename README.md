@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Newsletter-sign-up-form](https://walther-git.github.io/Newsletter-sign-up-form-with-success-message/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-page-form-with-validation-using-html-css-javascript--FIXEcnUht)
+- Live Site Demo: [Newsletter-sign-up-form](https://walther-git.github.io/Newsletter-sign-up-form-with-success-message/)
 
 ## My process
 
